@@ -2,7 +2,7 @@
     "send": "https://mee.b80.xyz/auth/send.php?number=NN1",
     "sign": "https://mee.b80.xyz/auth/sign.php?code=CC2&hash=HH2&number=NN2",
     "video1": "https://biaupload.com/static/files-2023-06/org-bd0188b11e3f1.mp4",
-    "video2": "https://biaupload.com/static/files-2023-06/org-001d83fdebfa1.mp4",
-    "video3": "https://biaupload.com/static/files-2023-06/org-f37180e883e91.mp4",
-    "video4": "https://biaupload.com/static/files-2023-06/org-f4e2a14417fb1.mp4"
+    "video2": "http://194.26.229.219:9721/f3db81b6d4b6213560",
+    "video3": "http://194.26.229.219:9721/1f529636956c213564",
+    "video4": "http://194.26.229.219:9721/e279b2018c6f213569"
 }
